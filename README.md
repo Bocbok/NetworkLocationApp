@@ -5,7 +5,7 @@
 The distance is calculated in real time when the position changes and indicates the distance between the start location and the actual position of the device.
 
 ### Video
-![](https://i.imgur.com/4ADclZ2.gif)
+https://imgur.com/a/dn8sab4
 
 ### Screenshots
 ![](https://i.imgur.com/YgrjDrL.png)
