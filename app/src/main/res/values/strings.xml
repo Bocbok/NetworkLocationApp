@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">SesionNetworkLocation</string>
     <string name="title_activity_maps">Map</string>
-    <string name="Update">Update</string>
     <string name="distance">Distance: </string>
-    <string name="longitud">Longitud: </string>
 </resources>
